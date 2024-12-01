@@ -6,5 +6,5 @@
 
 # Day 1: 
 - personal leaderboard times: 00:31:18  7971      0   00:37:31  7481      0 (actually both problems took me <= 10 minutes to solve in python)
-- Link : https://github
+- Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/1
 - Video : https://youtube
