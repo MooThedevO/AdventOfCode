@@ -11,5 +11,5 @@
 
 # Day 2: Red-Nosed Reports 
 - personal leaderboard times: 00:12:50  4105      0   00:14:26  1655      0
-- Link : https://github.com
+- Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/2
 - Video : https://youtube
