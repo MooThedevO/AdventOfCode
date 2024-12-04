@@ -19,3 +19,8 @@
 - personal leaderboard times:
 - Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/3
 - Video : https://youtube
+
+# Day 4: Day 4: Ceres Search 
+- personal leaderboard times:
+- Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/4
+- Video : https://youtube
