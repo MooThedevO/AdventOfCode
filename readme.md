@@ -28,3 +28,7 @@
 # Day 6: Guard Gallivant  
 - Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/6
 - Video : https://youtube
+
+# Day 6: Bridge Repair 
+- Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/7
+- Video : https://youtube
