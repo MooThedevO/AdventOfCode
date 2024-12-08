@@ -29,6 +29,10 @@
 - Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/6
 - Video : https://youtube
 
-# Day 6: Bridge Repair 
+# Day 7: Bridge Repair 
 - Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/7
+- Video : https://youtube
+
+# Day 8: Resonant Collinearity
+- Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/8
 - Video : https://youtube
