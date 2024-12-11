@@ -36,3 +36,16 @@
 # Day 8: Resonant Collinearity
 - Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/8
 - Video : https://youtube
+
+# Day 9: Disk Fragmenter
+- Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/9
+- Video : https://youtube
+
+# Day 10: Hoof It 
+- Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/10
+- Video : https://youtube
+
+# Day 11: Plutonian Pebbles 
+- Link : https://github.com/MooThedevO/AdventOfCode/tree/main/2024/11
+- Video : https://youtube
+
